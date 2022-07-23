@@ -1,0 +1,279 @@
+body{font-family: "Open Sans"!important;
+    background-color: #faf1f1!important;}
+header{
+    width: 100%;
+    height: 30px;
+    padding-top: 6px;
+    color: #fff!important;
+    background-color: #000!important;
+    box-sizing: inherit;
+    box-sizing: inherit;
+    border: 2px solid black;
+   
+    
+}
+.social a {
+    padding: 0px 15px 15px 15px;
+}
+div.soc2{
+    float: right;
+}
+/* section */
+section{
+    margin: 15px;
+    /* margin-bottom: 15px; */
+    text-align: center;
+}
+.blog h1{
+    font-size: oswald;
+    font-size: 48px;   
+}
+h6{
+    font-size: 16px;
+
+}
+.blog span{
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    font-size: 20px;
+    color: #fff;
+    background-color: rgb(0, 0, 0);
+}
+/* main */
+main{
+    display: flex;
+    align-items:center;
+    width: 100%;
+    height: 100vh;
+    font-size: 15px;
+   
+    background-image: url(../projekt/jane.jpg);
+
+}
+main .jane{
+    background-color:  rgb(0, 0, 0 0.5);
+    color:#fff;
+    
+}
+main .jane2 b{
+    letter-spacing: 4px;
+    font-size: 50px !important;
+    margin-left: 15px;
+
+}
+main .jane2 h1{
+    margin-left: 15px;
+   font-size:40px!important ;
+}
+.jane2 button{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 12px 24px!important;
+    color: rgb(0, 0, 0);
+    background-color: #fff !important;
+    opacity: 0.6;
+    
+}
+.jane2 button:hover{
+    color: rgb(184, 140, 140);
+
+}
+.conteiner{
+    
+    width: 600px;
+    margin-left: 15px;
+}
+.title{
+    text-align: center;
+}
+.title h3{
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 24px;
+    color: #000!important;
+    line-height: 1.5;
+}
+.title p{
+    font-weight: 400;
+    margin: 10px 0;
+}
+.title span{
+    
+    opacity: 0.60;
+    font-size: 18px;
+}
+.title{
+    text-align: justify!important;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.title a{
+    
+    font-size: 50px;
+}
+.title button{
+    float: right;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+}
+.rpl button:hover{
+
+   background-color: rgb(30, 19, 19);
+
+}
+button{
+    border-radius: 30px;
+}
+/* <!-- diferenca --> */
+ .conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+ }
+ .conteiner h3{
+    text-align: center;
+    font-size: 22px;
+    color: #000!important;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: "Open Sans"!important;
+ }
+ .conteiner p{
+    text-align: center;
+    font-size: 18px;
+    color: #000!important;
+    line-height: 1.5;
+    opacity: 0.60;
+ }
+ .conteiner .white ul{
+    list-style-type:none;
+ }
+ .wrap{
+    margin: 60px;
+ }
+ .rpl button{
+    float: right;
+    border-radius: 30px;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+
+ }
+ .txt p{
+    background-color: #000;
+    color:  #f1f1f1!important;
+    opacity: 0.6;
+    
+ }
+ 
+ .txt span{
+    font-size: larger;
+ }
+ .txt hr{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.5), 0 2px 10px 0 rgba(0,0,0,0.12);
+ }
+ .white{
+    margin: 30px;
+ }
+ .white hr{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.5), 0 2px 10px 0 rgba(0,0,0,0.12);
+ }
+ hr{
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.5), 0 2px 10px 0 rgba(0,0,0,0.12);
+
+ }
+ .white span{
+    opacity: 0.60;
+    font-size: 18px;
+ }
+ .cs img{
+    margin-right: 15px;
+}
+.rpl1 button{
+    
+    border-radius: 30px;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    margin-left: 480px;
+}
+.rpl1 a{
+    font-size: 40px;
+}
+.title2 h3{
+    font-size: 22px;
+    color: #000!important;
+    font-weight: 400;
+    line-height: 1.5;
+    font-family: "Open Sans"!important;
+
+} 
+.title2 span{
+    background-color: #000;
+    color: #faf1f1 !important;
+    opacity: 0.40;
+    font-size: 16px;
+
+    padding: 2px;
+}
+.mee{
+    text-align: center;
+}
+.mee h1{
+    background-color: #000;
+    color: #faf1f1 !important;
+}
+.mee a{
+    margin: 15px;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form{
+    margin-left: 100px;
+    width: 100%;
+}
+.form span{
+    color: #fff!important;
+    background-color: #f01c0d!important;
+    
+    padding: 5px;
+    padding-left: 100px;
+    padding-right: 190px;
+    text-decoration: none;
+}
+input{
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.end p{
+    width: 400px;
+}
+.ft a{
+    margin: 35px;
+}
+.end1{
+    color: #fff!important;
+    background-color: #616161!important;
+    height: 200px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 28px;
+    line-height: 1.5;
+    margin-top: 32px;
+    padding: 32px;
+}
+.end1 a{
+    padding: 12px 24px!important;
+    text-decoration: none;
+
+
+}
